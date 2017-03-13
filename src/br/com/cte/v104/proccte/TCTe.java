@@ -8,6 +8,7 @@
 
 package br.com.cte.v104.proccte;
 
+import br.com.cte.base.EmitenteBase;
 import java.util.ArrayList;
 import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;
@@ -5710,7 +5711,7 @@ public class TCTe {
             "xFant",
             "enderEmit"
         })
-        public static class Emit {
+        public static class Emit implements EmitenteBase<TEndeEmi> {
 
             @XmlElement(name = "CNPJ", required = true)
             protected String cnpj;
@@ -5730,6 +5731,7 @@ public class TCTe {
              *     {@link String }
              *     
              */
+            @Override
             public String getCNPJ() {
                 return cnpj;
             }
@@ -5754,6 +5756,7 @@ public class TCTe {
              *     {@link String }
              *     
              */
+            @Override
             public String getIE() {
                 return ie;
             }
@@ -5778,6 +5781,7 @@ public class TCTe {
              *     {@link String }
              *     
              */
+            @Override
             public String getXNome() {
                 return xNome;
             }
@@ -5802,6 +5806,7 @@ public class TCTe {
              *     {@link String }
              *     
              */
+            @Override
             public String getXFant() {
                 return xFant;
             }
@@ -5826,6 +5831,7 @@ public class TCTe {
              *     {@link TEndeEmi }
              *     
              */
+            @Override
             public TEndeEmi getEnderEmit() {
                 return enderEmit;
             }

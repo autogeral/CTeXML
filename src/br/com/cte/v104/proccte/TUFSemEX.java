@@ -8,6 +8,7 @@
 
 package br.com.cte.v104.proccte;
 
+import br.com.cte.base.UFBase;
 import javax.xml.bind.annotation.XmlEnum;
 import javax.xml.bind.annotation.XmlType;
 
@@ -55,7 +56,7 @@ import javax.xml.bind.annotation.XmlType;
  */
 @XmlType(name = "TUF_sem_EX")
 @XmlEnum
-public enum TUFSemEX {
+public enum TUFSemEX implements UFBase {
 
     AC,
     AL,

@@ -1,5 +1,21 @@
 xjc -p br.inf.portalfiscal.nfe.xml.pl006q br/com/jcomputacao/nfe/xml/pl006q/nfe_v2.00.xsd br/com/jcomputacao/nfe/xml/pl006q/inutNFe_v2.00.xsd br/com/jcomputacao/nfe/xml/pl006q/cancNFe_v2.00.xsd br/com/jcomputacao/nfe/xml/pl006q/consCad_v2.00.xsd br/com/jcomputacao/nfe/xml/pl006q/consSitNFe_v2.01
-xjc -p br.com.jcomputacao.cte.xml         br/com/jcomputacao/cte/xml/schema/cte_v1.04.xsd br/com/jcomputacao/cte/xml/schema/inutCte_v1.04.xsd br/com/jcomputacao/cte/xml/schema/cancCte_v1.04.xsd br/com/jcomputacao/cte/xml/schema/consSitCte_v1.04.xsd
+xjc -p br.com.jcomputacao.cte.xml         br/com/jcomputacao/cte/xml/PL_CTe_140/cte_v1.04.xsd br/com/jcomputacao/cte/xml/PL_CTe_140/inutCte_v1.04.xsd br/com/jcomputacao/cte/xml/PL_CTe_140/cancCte_v1.04.xsd br/com/jcomputacao/cte/xml/PL_CTe_140/consSitCte_v1.04.xsd
 
 xjc -p br.com.jcomputacao.cte.xml br/com/jcomputacao/cte/xml/schema/inutCte_v1.04.xsd br/com/jcomputacao/cte/xml/schema/cancCte_v1.04.xsd br/com/jcomputacao/cte/xml/schema/consSitCte_v1.04.xsd
+
+
+xjc -p br.com.cte.v200.cte br/com/jcomputacao/cte/xml/PL_CTe_200a/inutCTe_v2.00.xsd br/com/jcomputacao/cte/xml/PL_CTe_200a/evCancCTe_v2.00.xsd br/com/jcomputacao/cte/xml/PL_CTe_200a/consSitCTe_v2.00.xsd
+
+xjc -p br.com.cte.v300.cte br/com/jcomputacao/cte/xml/PL_CTe_300/procCTe_v3.00.xsd br/com/jcomputacao/cte/xml/PL_CTe_300/inutCTe_v3.00.xsd br/com/jcomputacao/cte/xml/PL_CTe_300/evCancCTe_v3.00.xsd br/com/jcomputacao/cte/xml/PL_CTe_300/consSitCTe_v3.00.xsd
+
+
+xjc -p br.com.cte.v200.cte br/com/jcomputacao/cte/xml/PL_CTe_200a/cte_v2.00.xsd
+
+xjc -p br.com.cte.v300.cte br/com/jcomputacao/cte/xml/PL_CTe_300/cte_v3.00.xsd
+
+xjc -p br.com.cte.v200.cte br/com/jcomputacao/cte/xml/PL_CTe_200a/cte_v2.00.xsd
+xjc -p br.com.cte.v300.cte br/com/jcomputacao/cte/xml/PL_CTe_300/cte_v3.00.xsd
+
+xjc -p br.com.cte.v200.proccte br/com/jcomputacao/cte/xml/PL_CTe_200a/procCTe_v2.00.xsd
+xjc -p br.com.cte.v300.proccte br/com/jcomputacao/cte/xml/PL_CTe_300/procCTe_v3.00.xsd
 

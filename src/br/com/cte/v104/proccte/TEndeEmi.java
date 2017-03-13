@@ -12,6 +12,7 @@ import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
+import br.com.cte.base.EnderecoBase;
 
 
 /**
@@ -104,7 +105,7 @@ import javax.xml.bind.annotation.XmlType;
     "uf",
     "fone"
 })
-public class TEndeEmi {
+public class TEndeEmi implements EnderecoBase<TUFSemEX> {
 
     @XmlElement(required = true)
     protected String xLgr;
@@ -131,6 +132,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getXLgr() {
         return xLgr;
     }
@@ -155,6 +157,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getNro() {
         return nro;
     }
@@ -179,6 +182,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getXCpl() {
         return xCpl;
     }
@@ -203,6 +207,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getXBairro() {
         return xBairro;
     }
@@ -227,6 +232,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getCMun() {
         return cMun;
     }
@@ -251,6 +257,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getXMun() {
         return xMun;
     }
@@ -275,6 +282,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getCEP() {
         return cep;
     }
@@ -323,6 +331,7 @@ public class TEndeEmi {
      *     {@link String }
      *     
      */
+    @Override
     public String getFone() {
         return fone;
     }
