@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2017.03.13 às 04:40:34 PM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2017.03.13 Ã s 04:40:34 PM BRT 
 //
 
 
@@ -18,11 +18,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Pedido de Concessão de Autorização da CT-e
+ * Tipo Pedido de ConcessÃ£o de AutorizaÃ§Ã£o da CT-e
  * 
  * <p>Classe Java de TEnviCTe complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TEnviCTe">
@@ -55,7 +55,7 @@ public class TEnviCTe {
     protected String versao;
 
     /**
-     * Obtém o valor da propriedade idLote.
+     * ObtÃ©m o valor da propriedade idLote.
      * 
      * @return
      *     possible object is
@@ -108,7 +108,7 @@ public class TEnviCTe {
     }
 
     /**
-     * Obtém o valor da propriedade versao.
+     * ObtÃ©m o valor da propriedade versao.
      * 
      * @return
      *     possible object is

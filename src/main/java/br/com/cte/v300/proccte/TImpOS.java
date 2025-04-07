@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2017.03.13 às 04:40:34 PM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2017.03.13 Ã s 04:40:34 PM BRT 
 //
 
 
@@ -19,7 +19,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  * <p>Classe Java de TImpOS complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TImpOS">
@@ -168,7 +168,7 @@ public class TImpOS {
     protected TImpOS.ICMSSN icmssn;
 
     /**
-     * Obtém o valor da propriedade icms00.
+     * ObtÃ©m o valor da propriedade icms00.
      * 
      * @return
      *     possible object is
@@ -192,7 +192,7 @@ public class TImpOS {
     }
 
     /**
-     * Obtém o valor da propriedade icms45.
+     * ObtÃ©m o valor da propriedade icms45.
      * 
      * @return
      *     possible object is
@@ -216,7 +216,7 @@ public class TImpOS {
     }
 
     /**
-     * Obtém o valor da propriedade icms90.
+     * ObtÃ©m o valor da propriedade icms90.
      * 
      * @return
      *     possible object is
@@ -240,7 +240,7 @@ public class TImpOS {
     }
 
     /**
-     * Obtém o valor da propriedade icmsOutraUF.
+     * ObtÃ©m o valor da propriedade icmsOutraUF.
      * 
      * @return
      *     possible object is
@@ -264,7 +264,7 @@ public class TImpOS {
     }
 
     /**
-     * Obtém o valor da propriedade icmssn.
+     * ObtÃ©m o valor da propriedade icmssn.
      * 
      * @return
      *     possible object is
@@ -291,7 +291,7 @@ public class TImpOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -336,7 +336,7 @@ public class TImpOS {
         protected String vicms;
 
         /**
-         * Obtém o valor da propriedade cst.
+         * ObtÃ©m o valor da propriedade cst.
          * 
          * @return
          *     possible object is
@@ -360,7 +360,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vbc.
+         * ObtÃ©m o valor da propriedade vbc.
          * 
          * @return
          *     possible object is
@@ -384,7 +384,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade picms.
+         * ObtÃ©m o valor da propriedade picms.
          * 
          * @return
          *     possible object is
@@ -408,7 +408,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vicms.
+         * ObtÃ©m o valor da propriedade vicms.
          * 
          * @return
          *     possible object is
@@ -437,7 +437,7 @@ public class TImpOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -472,7 +472,7 @@ public class TImpOS {
         protected String cst;
 
         /**
-         * Obtém o valor da propriedade cst.
+         * ObtÃ©m o valor da propriedade cst.
          * 
          * @return
          *     possible object is
@@ -501,7 +501,7 @@ public class TImpOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -552,7 +552,7 @@ public class TImpOS {
         protected String vCred;
 
         /**
-         * Obtém o valor da propriedade cst.
+         * ObtÃ©m o valor da propriedade cst.
          * 
          * @return
          *     possible object is
@@ -576,7 +576,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade pRedBC.
+         * ObtÃ©m o valor da propriedade pRedBC.
          * 
          * @return
          *     possible object is
@@ -600,7 +600,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vbc.
+         * ObtÃ©m o valor da propriedade vbc.
          * 
          * @return
          *     possible object is
@@ -624,7 +624,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade picms.
+         * ObtÃ©m o valor da propriedade picms.
          * 
          * @return
          *     possible object is
@@ -648,7 +648,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vicms.
+         * ObtÃ©m o valor da propriedade vicms.
          * 
          * @return
          *     possible object is
@@ -672,7 +672,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vCred.
+         * ObtÃ©m o valor da propriedade vCred.
          * 
          * @return
          *     possible object is
@@ -701,7 +701,7 @@ public class TImpOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -749,7 +749,7 @@ public class TImpOS {
         protected String vicmsOutraUF;
 
         /**
-         * Obtém o valor da propriedade cst.
+         * ObtÃ©m o valor da propriedade cst.
          * 
          * @return
          *     possible object is
@@ -773,7 +773,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade pRedBCOutraUF.
+         * ObtÃ©m o valor da propriedade pRedBCOutraUF.
          * 
          * @return
          *     possible object is
@@ -797,7 +797,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vbcOutraUF.
+         * ObtÃ©m o valor da propriedade vbcOutraUF.
          * 
          * @return
          *     possible object is
@@ -821,7 +821,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade picmsOutraUF.
+         * ObtÃ©m o valor da propriedade picmsOutraUF.
          * 
          * @return
          *     possible object is
@@ -845,7 +845,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade vicmsOutraUF.
+         * ObtÃ©m o valor da propriedade vicmsOutraUF.
          * 
          * @return
          *     possible object is
@@ -874,7 +874,7 @@ public class TImpOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -918,7 +918,7 @@ public class TImpOS {
         protected String indSN;
 
         /**
-         * Obtém o valor da propriedade cst.
+         * ObtÃ©m o valor da propriedade cst.
          * 
          * @return
          *     possible object is
@@ -942,7 +942,7 @@ public class TImpOS {
         }
 
         /**
-         * Obtém o valor da propriedade indSN.
+         * ObtÃ©m o valor da propriedade indSN.
          * 
          * @return
          *     possible object is

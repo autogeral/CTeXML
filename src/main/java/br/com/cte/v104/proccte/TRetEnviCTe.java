@@ -19,7 +19,7 @@ import javax.xml.datatype.XMLGregorianCalendar;
 
 
 /**
- * Tipo Retorno do Pedido de Concess„o de AutorizaÁ„o da CT-e
+ * Tipo Retorno do Pedido de Concess√£o de Autoriza√ß√£o da CT-e
  * 
  * <p>Java class for TRetEnviCTe complex type.
  * 

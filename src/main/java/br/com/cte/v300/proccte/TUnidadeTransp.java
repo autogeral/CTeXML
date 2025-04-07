@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2017.03.13 às 04:40:34 PM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2017.03.13 Ã s 04:40:34 PM BRT 
 //
 
 
@@ -21,7 +21,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  * <p>Classe Java de TUnidadeTransp complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TUnidadeTransp">
@@ -77,7 +77,7 @@ public class TUnidadeTransp {
     protected String qtdRat;
 
     /**
-     * Obtém o valor da propriedade tpUnidTransp.
+     * ObtÃ©m o valor da propriedade tpUnidTransp.
      * 
      * @return
      *     possible object is
@@ -101,7 +101,7 @@ public class TUnidadeTransp {
     }
 
     /**
-     * Obtém o valor da propriedade idUnidTransp.
+     * ObtÃ©m o valor da propriedade idUnidTransp.
      * 
      * @return
      *     possible object is
@@ -183,7 +183,7 @@ public class TUnidadeTransp {
     }
 
     /**
-     * Obtém o valor da propriedade qtdRat.
+     * ObtÃ©m o valor da propriedade qtdRat.
      * 
      * @return
      *     possible object is
@@ -210,7 +210,7 @@ public class TUnidadeTransp {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -243,7 +243,7 @@ public class TUnidadeTransp {
         protected String nLacre;
 
         /**
-         * Obtém o valor da propriedade nLacre.
+         * ObtÃ©m o valor da propriedade nLacre.
          * 
          * @return
          *     possible object is

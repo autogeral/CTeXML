@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
 
 
 /**
- * Tipo Conhecimento de Transporte Eletrônico
+ * Tipo Conhecimento de Transporte EletrÃ´nico
  * 
  * <p>Java class for TCTe complex type.
  * 

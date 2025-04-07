@@ -18,7 +18,7 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Pedido de Concess„o de AutorizaÁ„o da CT-e
+ * Tipo Pedido de Concess√£o de Autoriza√ß√£o da CT-e
  * 
  * <p>Java class for TEnviCTe complex type.
  * 

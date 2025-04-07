@@ -16,7 +16,7 @@ import br.com.cte.base.EnderecoBase;
 
 
 /**
- * Tipo Dados do Endereço
+ * Tipo Dados do EndereÃ§o
  * 
  * <p>Java class for TEndeEmi complex type.
  * 

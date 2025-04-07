@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2017.03.13 às 04:40:34 PM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2017.03.13 Ã s 04:40:34 PM BRT 
 //
 
 
@@ -16,11 +16,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Retorno do Pedido de Autorização de CT-e OS (Modelo 67)
+ * Tipo Retorno do Pedido de AutorizaÃ§Ã£o de CT-e OS (Modelo 67)
  * 
  * <p>Classe Java de TRetCTeOS complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TRetCTeOS">
@@ -68,7 +68,7 @@ public class TRetCTeOS {
     protected String versao;
 
     /**
-     * Obtém o valor da propriedade tpAmb.
+     * ObtÃ©m o valor da propriedade tpAmb.
      * 
      * @return
      *     possible object is
@@ -92,7 +92,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade cuf.
+     * ObtÃ©m o valor da propriedade cuf.
      * 
      * @return
      *     possible object is
@@ -116,7 +116,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade verAplic.
+     * ObtÃ©m o valor da propriedade verAplic.
      * 
      * @return
      *     possible object is
@@ -140,7 +140,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade cStat.
+     * ObtÃ©m o valor da propriedade cStat.
      * 
      * @return
      *     possible object is
@@ -164,7 +164,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade xMotivo.
+     * ObtÃ©m o valor da propriedade xMotivo.
      * 
      * @return
      *     possible object is
@@ -188,7 +188,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade protCTe.
+     * ObtÃ©m o valor da propriedade protCTe.
      * 
      * @return
      *     possible object is
@@ -212,7 +212,7 @@ public class TRetCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade versao.
+     * ObtÃ©m o valor da propriedade versao.
      * 
      * @return
      *     possible object is

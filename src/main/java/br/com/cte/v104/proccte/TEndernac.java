@@ -15,7 +15,7 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Dados do Endereço
+ * Tipo Dados do EndereÃ§o
  * 
  * <p>Java class for TEndernac complex type.
  * 

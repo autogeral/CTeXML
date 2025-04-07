@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2017.03.13 às 04:40:34 PM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2017.03.13 Ã s 04:40:34 PM BRT 
 //
 
 
@@ -24,11 +24,11 @@ import org.w3c.dom.Element;
 
 
 /**
- * Tipo Conhecimento de Transporte Eletrônico Outros Serviços (Modelo 67)
+ * Tipo Conhecimento de Transporte EletrÃ´nico Outros ServiÃ§os (Modelo 67)
  * 
  * <p>Classe Java de TCTeOS complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TCTeOS">
@@ -744,7 +744,7 @@ public class TCTeOS {
     protected String versao;
 
     /**
-     * Obtém o valor da propriedade infCte.
+     * ObtÃ©m o valor da propriedade infCte.
      * 
      * @return
      *     possible object is
@@ -768,7 +768,7 @@ public class TCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade signature.
+     * ObtÃ©m o valor da propriedade signature.
      * 
      * @return
      *     possible object is
@@ -792,7 +792,7 @@ public class TCTeOS {
     }
 
     /**
-     * Obtém o valor da propriedade versao.
+     * ObtÃ©m o valor da propriedade versao.
      * 
      * @return
      *     possible object is
@@ -819,7 +819,7 @@ public class TCTeOS {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -1540,7 +1540,7 @@ public class TCTeOS {
         protected String id;
 
         /**
-         * Obtém o valor da propriedade ide.
+         * ObtÃ©m o valor da propriedade ide.
          * 
          * @return
          *     possible object is
@@ -1564,7 +1564,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade compl.
+         * ObtÃ©m o valor da propriedade compl.
          * 
          * @return
          *     possible object is
@@ -1588,7 +1588,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade emit.
+         * ObtÃ©m o valor da propriedade emit.
          * 
          * @return
          *     possible object is
@@ -1612,7 +1612,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade toma.
+         * ObtÃ©m o valor da propriedade toma.
          * 
          * @return
          *     possible object is
@@ -1636,7 +1636,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade vPrest.
+         * ObtÃ©m o valor da propriedade vPrest.
          * 
          * @return
          *     possible object is
@@ -1660,7 +1660,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade imp.
+         * ObtÃ©m o valor da propriedade imp.
          * 
          * @return
          *     possible object is
@@ -1684,7 +1684,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade infCTeNorm.
+         * ObtÃ©m o valor da propriedade infCTeNorm.
          * 
          * @return
          *     possible object is
@@ -1708,7 +1708,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade infCteComp.
+         * ObtÃ©m o valor da propriedade infCteComp.
          * 
          * @return
          *     possible object is
@@ -1732,7 +1732,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade infCteAnu.
+         * ObtÃ©m o valor da propriedade infCteAnu.
          * 
          * @return
          *     possible object is
@@ -1785,7 +1785,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade versao.
+         * ObtÃ©m o valor da propriedade versao.
          * 
          * @return
          *     possible object is
@@ -1809,7 +1809,7 @@ public class TCTeOS {
         }
 
         /**
-         * Obtém o valor da propriedade id.
+         * ObtÃ©m o valor da propriedade id.
          * 
          * @return
          *     possible object is
@@ -1836,7 +1836,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -1868,7 +1868,7 @@ public class TCTeOS {
             protected String cpf;
 
             /**
-             * Obtém o valor da propriedade cnpj.
+             * ObtÃ©m o valor da propriedade cnpj.
              * 
              * @return
              *     possible object is
@@ -1892,7 +1892,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cpf.
+             * ObtÃ©m o valor da propriedade cpf.
              * 
              * @return
              *     possible object is
@@ -1921,7 +1921,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -2041,7 +2041,7 @@ public class TCTeOS {
             protected List<TCTeOS.InfCte.Compl.ObsFisco> obsFisco;
 
             /**
-             * Obtém o valor da propriedade xCaracAd.
+             * ObtÃ©m o valor da propriedade xCaracAd.
              * 
              * @return
              *     possible object is
@@ -2065,7 +2065,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xCaracSer.
+             * ObtÃ©m o valor da propriedade xCaracSer.
              * 
              * @return
              *     possible object is
@@ -2089,7 +2089,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xEmi.
+             * ObtÃ©m o valor da propriedade xEmi.
              * 
              * @return
              *     possible object is
@@ -2113,7 +2113,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xObs.
+             * ObtÃ©m o valor da propriedade xObs.
              * 
              * @return
              *     possible object is
@@ -2198,7 +2198,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -2241,7 +2241,7 @@ public class TCTeOS {
                 protected String xCampo;
 
                 /**
-                 * Obtém o valor da propriedade xTexto.
+                 * ObtÃ©m o valor da propriedade xTexto.
                  * 
                  * @return
                  *     possible object is
@@ -2265,7 +2265,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade xCampo.
+                 * ObtÃ©m o valor da propriedade xCampo.
                  * 
                  * @return
                  *     possible object is
@@ -2294,7 +2294,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -2337,7 +2337,7 @@ public class TCTeOS {
                 protected String xCampo;
 
                 /**
-                 * Obtém o valor da propriedade xTexto.
+                 * ObtÃ©m o valor da propriedade xTexto.
                  * 
                  * @return
                  *     possible object is
@@ -2361,7 +2361,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade xCampo.
+                 * ObtÃ©m o valor da propriedade xCampo.
                  * 
                  * @return
                  *     possible object is
@@ -2392,7 +2392,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -2461,7 +2461,7 @@ public class TCTeOS {
             protected TEndeEmi enderEmit;
 
             /**
-             * Obtém o valor da propriedade cnpj.
+             * ObtÃ©m o valor da propriedade cnpj.
              * 
              * @return
              *     possible object is
@@ -2485,7 +2485,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade ie.
+             * ObtÃ©m o valor da propriedade ie.
              * 
              * @return
              *     possible object is
@@ -2509,7 +2509,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade iest.
+             * ObtÃ©m o valor da propriedade iest.
              * 
              * @return
              *     possible object is
@@ -2533,7 +2533,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xNome.
+             * ObtÃ©m o valor da propriedade xNome.
              * 
              * @return
              *     possible object is
@@ -2557,7 +2557,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xFant.
+             * ObtÃ©m o valor da propriedade xFant.
              * 
              * @return
              *     possible object is
@@ -2581,7 +2581,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade enderEmit.
+             * ObtÃ©m o valor da propriedade enderEmit.
              * 
              * @return
              *     possible object is
@@ -2610,7 +2610,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -2862,7 +2862,7 @@ public class TCTeOS {
             protected String xJust;
 
             /**
-             * Obtém o valor da propriedade cuf.
+             * ObtÃ©m o valor da propriedade cuf.
              * 
              * @return
              *     possible object is
@@ -2886,7 +2886,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cct.
+             * ObtÃ©m o valor da propriedade cct.
              * 
              * @return
              *     possible object is
@@ -2910,7 +2910,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cfop.
+             * ObtÃ©m o valor da propriedade cfop.
              * 
              * @return
              *     possible object is
@@ -2934,7 +2934,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade natOp.
+             * ObtÃ©m o valor da propriedade natOp.
              * 
              * @return
              *     possible object is
@@ -2958,7 +2958,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade mod.
+             * ObtÃ©m o valor da propriedade mod.
              * 
              * @return
              *     possible object is
@@ -2982,7 +2982,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade serie.
+             * ObtÃ©m o valor da propriedade serie.
              * 
              * @return
              *     possible object is
@@ -3006,7 +3006,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade nct.
+             * ObtÃ©m o valor da propriedade nct.
              * 
              * @return
              *     possible object is
@@ -3030,7 +3030,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade dhEmi.
+             * ObtÃ©m o valor da propriedade dhEmi.
              * 
              * @return
              *     possible object is
@@ -3054,7 +3054,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade tpImp.
+             * ObtÃ©m o valor da propriedade tpImp.
              * 
              * @return
              *     possible object is
@@ -3078,7 +3078,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade tpEmis.
+             * ObtÃ©m o valor da propriedade tpEmis.
              * 
              * @return
              *     possible object is
@@ -3102,7 +3102,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cdv.
+             * ObtÃ©m o valor da propriedade cdv.
              * 
              * @return
              *     possible object is
@@ -3126,7 +3126,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade tpAmb.
+             * ObtÃ©m o valor da propriedade tpAmb.
              * 
              * @return
              *     possible object is
@@ -3150,7 +3150,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade tpCTe.
+             * ObtÃ©m o valor da propriedade tpCTe.
              * 
              * @return
              *     possible object is
@@ -3174,7 +3174,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade procEmi.
+             * ObtÃ©m o valor da propriedade procEmi.
              * 
              * @return
              *     possible object is
@@ -3198,7 +3198,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade verProc.
+             * ObtÃ©m o valor da propriedade verProc.
              * 
              * @return
              *     possible object is
@@ -3222,7 +3222,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cMunEnv.
+             * ObtÃ©m o valor da propriedade cMunEnv.
              * 
              * @return
              *     possible object is
@@ -3246,7 +3246,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xMunEnv.
+             * ObtÃ©m o valor da propriedade xMunEnv.
              * 
              * @return
              *     possible object is
@@ -3270,7 +3270,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade ufEnv.
+             * ObtÃ©m o valor da propriedade ufEnv.
              * 
              * @return
              *     possible object is
@@ -3294,7 +3294,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade modal.
+             * ObtÃ©m o valor da propriedade modal.
              * 
              * @return
              *     possible object is
@@ -3318,7 +3318,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade tpServ.
+             * ObtÃ©m o valor da propriedade tpServ.
              * 
              * @return
              *     possible object is
@@ -3342,7 +3342,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade indIEToma.
+             * ObtÃ©m o valor da propriedade indIEToma.
              * 
              * @return
              *     possible object is
@@ -3366,7 +3366,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cMunIni.
+             * ObtÃ©m o valor da propriedade cMunIni.
              * 
              * @return
              *     possible object is
@@ -3390,7 +3390,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xMunIni.
+             * ObtÃ©m o valor da propriedade xMunIni.
              * 
              * @return
              *     possible object is
@@ -3414,7 +3414,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade ufIni.
+             * ObtÃ©m o valor da propriedade ufIni.
              * 
              * @return
              *     possible object is
@@ -3438,7 +3438,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cMunFim.
+             * ObtÃ©m o valor da propriedade cMunFim.
              * 
              * @return
              *     possible object is
@@ -3462,7 +3462,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xMunFim.
+             * ObtÃ©m o valor da propriedade xMunFim.
              * 
              * @return
              *     possible object is
@@ -3486,7 +3486,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade ufFim.
+             * ObtÃ©m o valor da propriedade ufFim.
              * 
              * @return
              *     possible object is
@@ -3539,7 +3539,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade dhCont.
+             * ObtÃ©m o valor da propriedade dhCont.
              * 
              * @return
              *     possible object is
@@ -3563,7 +3563,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xJust.
+             * ObtÃ©m o valor da propriedade xJust.
              * 
              * @return
              *     possible object is
@@ -3590,7 +3590,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -3617,7 +3617,7 @@ public class TCTeOS {
                 protected TUf ufPer;
 
                 /**
-                 * Obtém o valor da propriedade ufPer.
+                 * ObtÃ©m o valor da propriedade ufPer.
                  * 
                  * @return
                  *     possible object is
@@ -3648,7 +3648,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -3725,7 +3725,7 @@ public class TCTeOS {
             protected TCTeOS.InfCte.Imp.InfTribFed infTribFed;
 
             /**
-             * Obtém o valor da propriedade icms.
+             * ObtÃ©m o valor da propriedade icms.
              * 
              * @return
              *     possible object is
@@ -3749,7 +3749,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade vTotTrib.
+             * ObtÃ©m o valor da propriedade vTotTrib.
              * 
              * @return
              *     possible object is
@@ -3773,7 +3773,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade infAdFisco.
+             * ObtÃ©m o valor da propriedade infAdFisco.
              * 
              * @return
              *     possible object is
@@ -3797,7 +3797,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade icmsufFim.
+             * ObtÃ©m o valor da propriedade icmsufFim.
              * 
              * @return
              *     possible object is
@@ -3821,7 +3821,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade infTribFed.
+             * ObtÃ©m o valor da propriedade infTribFed.
              * 
              * @return
              *     possible object is
@@ -3848,7 +3848,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -3902,7 +3902,7 @@ public class TCTeOS {
                 protected String vicmsufIni;
 
                 /**
-                 * Obtém o valor da propriedade vbcufFim.
+                 * ObtÃ©m o valor da propriedade vbcufFim.
                  * 
                  * @return
                  *     possible object is
@@ -3926,7 +3926,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade pfcpufFim.
+                 * ObtÃ©m o valor da propriedade pfcpufFim.
                  * 
                  * @return
                  *     possible object is
@@ -3950,7 +3950,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade picmsufFim.
+                 * ObtÃ©m o valor da propriedade picmsufFim.
                  * 
                  * @return
                  *     possible object is
@@ -3974,7 +3974,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade picmsInter.
+                 * ObtÃ©m o valor da propriedade picmsInter.
                  * 
                  * @return
                  *     possible object is
@@ -3998,7 +3998,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade picmsInterPart.
+                 * ObtÃ©m o valor da propriedade picmsInterPart.
                  * 
                  * @return
                  *     possible object is
@@ -4022,7 +4022,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vfcpufFim.
+                 * ObtÃ©m o valor da propriedade vfcpufFim.
                  * 
                  * @return
                  *     possible object is
@@ -4046,7 +4046,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vicmsufFim.
+                 * ObtÃ©m o valor da propriedade vicmsufFim.
                  * 
                  * @return
                  *     possible object is
@@ -4070,7 +4070,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vicmsufIni.
+                 * ObtÃ©m o valor da propriedade vicmsufIni.
                  * 
                  * @return
                  *     possible object is
@@ -4099,7 +4099,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -4141,7 +4141,7 @@ public class TCTeOS {
                 protected String vcsll;
 
                 /**
-                 * Obtém o valor da propriedade vpis.
+                 * ObtÃ©m o valor da propriedade vpis.
                  * 
                  * @return
                  *     possible object is
@@ -4165,7 +4165,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vcofins.
+                 * ObtÃ©m o valor da propriedade vcofins.
                  * 
                  * @return
                  *     possible object is
@@ -4189,7 +4189,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vir.
+                 * ObtÃ©m o valor da propriedade vir.
                  * 
                  * @return
                  *     possible object is
@@ -4213,7 +4213,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vinss.
+                 * ObtÃ©m o valor da propriedade vinss.
                  * 
                  * @return
                  *     possible object is
@@ -4237,7 +4237,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vcsll.
+                 * ObtÃ©m o valor da propriedade vcsll.
                  * 
                  * @return
                  *     possible object is
@@ -4268,7 +4268,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -4304,7 +4304,7 @@ public class TCTeOS {
             protected String dEmi;
 
             /**
-             * Obtém o valor da propriedade chCte.
+             * ObtÃ©m o valor da propriedade chCte.
              * 
              * @return
              *     possible object is
@@ -4328,7 +4328,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade dEmi.
+             * ObtÃ©m o valor da propriedade dEmi.
              * 
              * @return
              *     possible object is
@@ -4357,7 +4357,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -4383,7 +4383,7 @@ public class TCTeOS {
             protected String chCTe;
 
             /**
-             * Obtém o valor da propriedade chCTe.
+             * ObtÃ©m o valor da propriedade chCTe.
              * 
              * @return
              *     possible object is
@@ -4412,7 +4412,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -4630,7 +4630,7 @@ public class TCTeOS {
             protected TCTeOS.InfCte.InfCTeNorm.InfCteSub infCteSub;
 
             /**
-             * Obtém o valor da propriedade infServico.
+             * ObtÃ©m o valor da propriedade infServico.
              * 
              * @return
              *     possible object is
@@ -4712,7 +4712,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade infModal.
+             * ObtÃ©m o valor da propriedade infModal.
              * 
              * @return
              *     possible object is
@@ -4736,7 +4736,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade infCteSub.
+             * ObtÃ©m o valor da propriedade infCteSub.
              * 
              * @return
              *     possible object is
@@ -4763,7 +4763,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -4846,7 +4846,7 @@ public class TCTeOS {
                 protected TCTeOS.InfCte.InfCTeNorm.InfCteSub.TomaICMS tomaICMS;
 
                 /**
-                 * Obtém o valor da propriedade chCte.
+                 * ObtÃ©m o valor da propriedade chCte.
                  * 
                  * @return
                  *     possible object is
@@ -4870,7 +4870,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade refCteAnu.
+                 * ObtÃ©m o valor da propriedade refCteAnu.
                  * 
                  * @return
                  *     possible object is
@@ -4894,7 +4894,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade tomaICMS.
+                 * ObtÃ©m o valor da propriedade tomaICMS.
                  * 
                  * @return
                  *     possible object is
@@ -4921,7 +4921,7 @@ public class TCTeOS {
                 /**
                  * <p>Classe Java de anonymous complex type.
                  * 
-                 * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+                 * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
                  * 
                  * <pre>
                  * &lt;complexType>
@@ -4978,7 +4978,7 @@ public class TCTeOS {
                     protected String refCte;
 
                     /**
-                     * Obtém o valor da propriedade refNFe.
+                     * ObtÃ©m o valor da propriedade refNFe.
                      * 
                      * @return
                      *     possible object is
@@ -5002,7 +5002,7 @@ public class TCTeOS {
                     }
 
                     /**
-                     * Obtém o valor da propriedade refNF.
+                     * ObtÃ©m o valor da propriedade refNF.
                      * 
                      * @return
                      *     possible object is
@@ -5026,7 +5026,7 @@ public class TCTeOS {
                     }
 
                     /**
-                     * Obtém o valor da propriedade refCte.
+                     * ObtÃ©m o valor da propriedade refCte.
                      * 
                      * @return
                      *     possible object is
@@ -5053,7 +5053,7 @@ public class TCTeOS {
                     /**
                      * <p>Classe Java de anonymous complex type.
                      * 
-                     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+                     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
                      * 
                      * <pre>
                      * &lt;complexType>
@@ -5115,7 +5115,7 @@ public class TCTeOS {
                         protected String dEmi;
 
                         /**
-                         * Obtém o valor da propriedade cnpj.
+                         * ObtÃ©m o valor da propriedade cnpj.
                          * 
                          * @return
                          *     possible object is
@@ -5139,7 +5139,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade cpf.
+                         * ObtÃ©m o valor da propriedade cpf.
                          * 
                          * @return
                          *     possible object is
@@ -5163,7 +5163,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade mod.
+                         * ObtÃ©m o valor da propriedade mod.
                          * 
                          * @return
                          *     possible object is
@@ -5187,7 +5187,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade serie.
+                         * ObtÃ©m o valor da propriedade serie.
                          * 
                          * @return
                          *     possible object is
@@ -5211,7 +5211,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade subserie.
+                         * ObtÃ©m o valor da propriedade subserie.
                          * 
                          * @return
                          *     possible object is
@@ -5235,7 +5235,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade nro.
+                         * ObtÃ©m o valor da propriedade nro.
                          * 
                          * @return
                          *     possible object is
@@ -5259,7 +5259,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade valor.
+                         * ObtÃ©m o valor da propriedade valor.
                          * 
                          * @return
                          *     possible object is
@@ -5283,7 +5283,7 @@ public class TCTeOS {
                         }
 
                         /**
-                         * Obtém o valor da propriedade dEmi.
+                         * ObtÃ©m o valor da propriedade dEmi.
                          * 
                          * @return
                          *     possible object is
@@ -5316,7 +5316,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -5376,7 +5376,7 @@ public class TCTeOS {
                 protected String vDoc;
 
                 /**
-                 * Obtém o valor da propriedade nDoc.
+                 * ObtÃ©m o valor da propriedade nDoc.
                  * 
                  * @return
                  *     possible object is
@@ -5400,7 +5400,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade serie.
+                 * ObtÃ©m o valor da propriedade serie.
                  * 
                  * @return
                  *     possible object is
@@ -5424,7 +5424,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade subserie.
+                 * ObtÃ©m o valor da propriedade subserie.
                  * 
                  * @return
                  *     possible object is
@@ -5448,7 +5448,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade dEmi.
+                 * ObtÃ©m o valor da propriedade dEmi.
                  * 
                  * @return
                  *     possible object is
@@ -5472,7 +5472,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vDoc.
+                 * ObtÃ©m o valor da propriedade vDoc.
                  * 
                  * @return
                  *     possible object is
@@ -5501,7 +5501,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -5537,7 +5537,7 @@ public class TCTeOS {
                 protected String versaoModal;
 
                 /**
-                 * Obtém o valor da propriedade any.
+                 * ObtÃ©m o valor da propriedade any.
                  * 
                  * @return
                  *     possible object is
@@ -5561,7 +5561,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade versaoModal.
+                 * ObtÃ©m o valor da propriedade versaoModal.
                  * 
                  * @return
                  *     possible object is
@@ -5590,7 +5590,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -5636,7 +5636,7 @@ public class TCTeOS {
                 protected TCTeOS.InfCte.InfCTeNorm.InfServico.InfQ infQ;
 
                 /**
-                 * Obtém o valor da propriedade xDescServ.
+                 * ObtÃ©m o valor da propriedade xDescServ.
                  * 
                  * @return
                  *     possible object is
@@ -5660,7 +5660,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade infQ.
+                 * ObtÃ©m o valor da propriedade infQ.
                  * 
                  * @return
                  *     possible object is
@@ -5687,7 +5687,7 @@ public class TCTeOS {
                 /**
                  * <p>Classe Java de anonymous complex type.
                  * 
-                 * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+                 * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
                  * 
                  * <pre>
                  * &lt;complexType>
@@ -5713,7 +5713,7 @@ public class TCTeOS {
                     protected String qCarga;
 
                     /**
-                     * Obtém o valor da propriedade qCarga.
+                     * ObtÃ©m o valor da propriedade qCarga.
                      * 
                      * @return
                      *     possible object is
@@ -5744,7 +5744,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -5800,7 +5800,7 @@ public class TCTeOS {
                 protected String nApol;
 
                 /**
-                 * Obtém o valor da propriedade respSeg.
+                 * ObtÃ©m o valor da propriedade respSeg.
                  * 
                  * @return
                  *     possible object is
@@ -5824,7 +5824,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade xSeg.
+                 * ObtÃ©m o valor da propriedade xSeg.
                  * 
                  * @return
                  *     possible object is
@@ -5848,7 +5848,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade nApol.
+                 * ObtÃ©m o valor da propriedade nApol.
                  * 
                  * @return
                  *     possible object is
@@ -5879,7 +5879,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -5956,7 +5956,7 @@ public class TCTeOS {
             protected String email;
 
             /**
-             * Obtém o valor da propriedade cnpj.
+             * ObtÃ©m o valor da propriedade cnpj.
              * 
              * @return
              *     possible object is
@@ -5980,7 +5980,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade cpf.
+             * ObtÃ©m o valor da propriedade cpf.
              * 
              * @return
              *     possible object is
@@ -6004,7 +6004,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade ie.
+             * ObtÃ©m o valor da propriedade ie.
              * 
              * @return
              *     possible object is
@@ -6028,7 +6028,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xNome.
+             * ObtÃ©m o valor da propriedade xNome.
              * 
              * @return
              *     possible object is
@@ -6052,7 +6052,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade xFant.
+             * ObtÃ©m o valor da propriedade xFant.
              * 
              * @return
              *     possible object is
@@ -6076,7 +6076,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade fone.
+             * ObtÃ©m o valor da propriedade fone.
              * 
              * @return
              *     possible object is
@@ -6100,7 +6100,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade enderToma.
+             * ObtÃ©m o valor da propriedade enderToma.
              * 
              * @return
              *     possible object is
@@ -6124,7 +6124,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade email.
+             * ObtÃ©m o valor da propriedade email.
              * 
              * @return
              *     possible object is
@@ -6153,7 +6153,7 @@ public class TCTeOS {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>
@@ -6205,7 +6205,7 @@ public class TCTeOS {
             protected List<TCTeOS.InfCte.VPrest.Comp> comp;
 
             /**
-             * Obtém o valor da propriedade vtPrest.
+             * ObtÃ©m o valor da propriedade vtPrest.
              * 
              * @return
              *     possible object is
@@ -6229,7 +6229,7 @@ public class TCTeOS {
             }
 
             /**
-             * Obtém o valor da propriedade vRec.
+             * ObtÃ©m o valor da propriedade vRec.
              * 
              * @return
              *     possible object is
@@ -6285,7 +6285,7 @@ public class TCTeOS {
             /**
              * <p>Classe Java de anonymous complex type.
              * 
-             * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+             * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
              * 
              * <pre>
              * &lt;complexType>
@@ -6322,7 +6322,7 @@ public class TCTeOS {
                 protected String vComp;
 
                 /**
-                 * Obtém o valor da propriedade xNome.
+                 * ObtÃ©m o valor da propriedade xNome.
                  * 
                  * @return
                  *     possible object is
@@ -6346,7 +6346,7 @@ public class TCTeOS {
                 }
 
                 /**
-                 * Obtém o valor da propriedade vComp.
+                 * ObtÃ©m o valor da propriedade vComp.
                  * 
                  * @return
                  *     possible object is
